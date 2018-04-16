@@ -1,6 +1,6 @@
 # WifiKill
 
-Network tool to disconnect people from internet in local area
+Tool to disconnect people from internet in LAN or WLAN
 
 ## Version 1.0.0
 

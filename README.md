@@ -10,4 +10,10 @@ Tool to disconnect people from internet in LAN or WLAN
 git clone https://github.com/Xinruk/WifiKill.git
 pip install -r requirements.txt
  ```
+## Screenshot
 
+![Alt text](WifiKill/img/screenshot?raw=true)
+
+## ToDo
+add support for Windowa, MacOS and Android
+add attackmode 3 : Kill all devices

@@ -12,7 +12,7 @@ pip install -r requirements.txt
  ```
 ## Screenshot
 
-![Overview](img/screenshot?raw=true)
+![Overview](img/menu.png)
 
 ## ToDo
 add support for Windowa, MacOS and Android

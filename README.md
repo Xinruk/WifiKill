@@ -12,7 +12,7 @@ pip install -r requirements.txt
  ```
 ## Screenshot
 
-![Overview](WifiKill/img/screenshot?raw=true)
+![Overview](img/screenshot?raw=true)
 
 ## ToDo
 add support for Windowa, MacOS and Android

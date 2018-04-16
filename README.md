@@ -12,8 +12,9 @@ pip install -r requirements.txt
  ```
 ## Screenshot
 
-![Alt text](WifiKill/img/screenshot?raw=true)
+![Overview](WifiKill/img/screenshot?raw=true)
 
 ## ToDo
 add support for Windowa, MacOS and Android
+
 add attackmode 3 : Kill all devices

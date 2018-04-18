@@ -2,7 +2,7 @@
 Tool to disconnect people from internet in LAN or WLAN
 
 ## Version 
-1.0.0
+1.1.0
 
 ## Installation
 
@@ -15,6 +15,13 @@ pip install -r requirements.txt
 ![Overview](img/menu.png)
 
 ## ToDo
-add support for Windowa, MacOS and Android
+add support for Windows, MacOS and Android
 
-add attackmode 3 : Kill all devices
+add attackmode 3 : Kick all devices
+
+
+
+#### changelog
+On version 1.1.0:
+- Works on linux 
+- Support only /24 networks
